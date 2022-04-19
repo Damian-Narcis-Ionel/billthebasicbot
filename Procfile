@@ -1,0 +1,1 @@
+web: java -jar target/bill-the-basic-bot-1.0-SNAPSHOT.jar
