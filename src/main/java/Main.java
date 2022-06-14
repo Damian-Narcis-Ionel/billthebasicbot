@@ -44,6 +44,7 @@ public class Main {
         jdaCommands.registerCommand(new CommandNowPlaying());
         jdaCommands.registerCommand(new CommandClear());
         jdaCommands.registerCommand(new CommandShuffle());
+        jdaCommands.registerCommand(new CommandBac());
 
         try{
 

@@ -30,6 +30,8 @@ public class Constants {
     public static final String SHUFFLE_COMMAND_DESC = "This Command is used to shuffle the current queue";
     public static final String HELP_COMMAND_NAME = "help";
     public static final String HELP_COMMAND_DESC = "This Command is used to see the list of commands";
+    public static final String BAC_COMMAND_DESC = "This Command is used to see the time left until BAC";
+    public static final String BAC_COMMAND_NAME = "bac";
 
     public static final String ERROR_USER_NOT_IN_VOICE_CHANNEL = "You need to be in a voice channel for this command to work";
     public static final String ERROR_BOT_NOT_IN_VOICE_CHANNEL = "I need to be in a voice channel for this command to work";
